@@ -52,7 +52,7 @@ $ yarn install
 # Rodar aplicação
 $ yarn start
 
-O servidor iniciará na porta:3000- acesse <http://localhost:3333>
+O servidor iniciará na porta:3000- acesse <http://localhost:3000>
 ```
 
 # Módulo Auth-API
