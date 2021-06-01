@@ -43,7 +43,7 @@ $ yarn start
 O servidor iniciará na porta:3333- acesse <http://localhost:3333>
 ```
 
-## Rodando o Projeto Backend
+## Rodando o Projeto Frontend
 
 ```bash
 # Instalar as dependências do projeto
